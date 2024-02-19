@@ -6,7 +6,8 @@
     </picture>
 </h1>
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/estefaniahl/demo/badge)](https://securityscorecards.dev/viewer/?uri=github.com/estefaniahl/demo)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/estefaniahl/demo/badge)]
+(https://securityscorecards.dev/viewer/?uri=github.com/estefaniahl/demo)
 # Dependabot Demo Repository
 
 This repo contains some projects with outdated dependencies. Fork it to try out
